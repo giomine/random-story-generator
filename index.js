@@ -2,43 +2,43 @@
 
 let stories = [
     {
-     intro: "once upon a time, there was a baby elephant",
+     intro: "Once upon a time, there was a baby elephant",
      two: "he ran straight up a tree",
-     three: "then the little people came!",
-     ending: "but he said GO AWAY!!!"
+     three: "he came home and found his painting ruined!",
+     ending: "then he shouted GO AWAY!!!"
     },
     {
-     intro: "i shall tell you the story of the angry bird",
-     two: "he woke up slowly in his bed one morning",
+     intro: "I'll tell you the story of the angry bird",
+     two: "he just finished his latest masterpiece",
      three: "his friends wanted to join him",
      ending: "and they all went to the cinema together"
     },
     {
-     intro: "did I tell you about the old man on Marchmont Street?",
+     intro: "Did I tell you about the old man on Marchmont Street?",
      two: "he woke up hostage on a speeding jet plane!!",
      three: "a genie granted him three wishes",
      ending: "he was too embarrassed and stayed home forever alone"
     },
     {
-     intro: "tell me again about that silly barista!",
+     intro: "Do you remember that painter?",
      two: "every day he went to his local park to watch the dogs play",
-     three: "he wished for a good breakfast, a holiday, and then..",
-     ending: "and then he pooped himself"
+     three: "he helped an old man cross the road",
+     ending: "and then he stole his wallet!"
     },
     {
-     intro: "do you remember Mr. Doodoo?",
+     intro: "Do you remember Mr. Eatmeat?",
      two: "he won the chess tournament that day",
-     three: "a dog approached him and peed on his leg",
-     ending: "he peed his pants and never lived it down"
+     three: "then he realised it was all he had",
+     ending: "he shrugged and whistled songs with the birds outside"
     },
     {
-     intro: "you know what my neighbour did yesterday?",
+     intro: "You know what my neighbour did yesterday?",
      two: "he drank too much coffee as usual",
      three: "his girlfriend appeared",
      ending: "he forgot how to speak, and lived forever mute"
     },
     {
-     intro: "let's not forget what happened to the poop head!",
+     intro: "Let's not forget what happened to my neighbour last week!",
      two: "he was just eating dinner in front of the tv",
      three: "his mother called on the phone",
      ending: "but they fell out and never spoke again"
