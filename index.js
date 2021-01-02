@@ -78,8 +78,8 @@ let stories = [
 
     var newStory = document.querySelector(".button");
     newStory.addEventListener("click", function() {
-      var quack = new Audio("quack.mp3");
-      quack.play();
+      // var quack = new Audio("quack.mp3");
+      // quack.play();
       partOne();
       partTwo();
       partThree();
